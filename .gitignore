@@ -1,0 +1,37 @@
+# data/output/weights dir
+data/chats
+data/videos
+data/audios
+output/
+demo_data/
+
+
+# compilation and distribution
+__pycache__
+_ext
+*.pyc
+*.pyd
+*.so
+
+# ipython/jupyter notebooks
+# *.ipynb
+**/.ipynb_checkpoints/
+
+# python env
+venv/
+
+# Editor temporaries
+*.swn
+*.swo
+*.swp
+*~
+
+# editor settings
+.idea
+.vscode
+
+# project dirs
+
+
+# pytorch
+lightning_logs/
